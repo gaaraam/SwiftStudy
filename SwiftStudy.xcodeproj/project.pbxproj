@@ -11,6 +11,8 @@
 		C57958AA26842F2300A2C8A7 /* for-in.swift in Sources */ = {isa = PBXBuildFile; fileRef = C57958A926842F2300A2C8A7 /* for-in.swift */; };
 		C597125726844CB00032B4DA /* while.swift in Sources */ = {isa = PBXBuildFile; fileRef = C597125626844CB00032B4DA /* while.swift */; };
 		C597125926844DBF0032B4DA /* guard.swift in Sources */ = {isa = PBXBuildFile; fileRef = C597125826844DBF0032B4DA /* guard.swift */; };
+		C597125B2684615D0032B4DA /* switch.swift in Sources */ = {isa = PBXBuildFile; fileRef = C597125A2684615D0032B4DA /* switch.swift */; };
+		C597125D268530C40032B4DA /* array.swift in Sources */ = {isa = PBXBuildFile; fileRef = C597125C268530C40032B4DA /* array.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -31,6 +33,8 @@
 		C57958A926842F2300A2C8A7 /* for-in.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "for-in.swift"; sourceTree = "<group>"; };
 		C597125626844CB00032B4DA /* while.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = while.swift; sourceTree = "<group>"; };
 		C597125826844DBF0032B4DA /* guard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = guard.swift; sourceTree = "<group>"; };
+		C597125A2684615D0032B4DA /* switch.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = switch.swift; sourceTree = "<group>"; };
+		C597125C268530C40032B4DA /* array.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = array.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -68,6 +72,8 @@
 				C57958A926842F2300A2C8A7 /* for-in.swift */,
 				C597125626844CB00032B4DA /* while.swift */,
 				C597125826844DBF0032B4DA /* guard.swift */,
+				C597125A2684615D0032B4DA /* switch.swift */,
+				C597125C268530C40032B4DA /* array.swift */,
 			);
 			path = SwiftStudy;
 			sourceTree = "<group>";
@@ -137,9 +143,11 @@
 			buildActionMask = 2147483647;
 			files = (
 				C597125726844CB00032B4DA /* while.swift in Sources */,
+				C597125D268530C40032B4DA /* array.swift in Sources */,
 				C597125926844DBF0032B4DA /* guard.swift in Sources */,
 				C57958AA26842F2300A2C8A7 /* for-in.swift in Sources */,
 				C579589F2683331C00A2C8A7 /* main.swift in Sources */,
+				C597125B2684615D0032B4DA /* switch.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
