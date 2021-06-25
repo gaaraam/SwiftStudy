@@ -17,6 +17,7 @@
 		C597126126853D130032B4DA /* tuple.swift in Sources */ = {isa = PBXBuildFile; fileRef = C597126026853D130032B4DA /* tuple.swift */; };
 		C59712632685416B0032B4DA /* dictionary.swift in Sources */ = {isa = PBXBuildFile; fileRef = C59712622685416B0032B4DA /* dictionary.swift */; };
 		C5971265268557040032B4DA /* optional.swift in Sources */ = {isa = PBXBuildFile; fileRef = C5971264268557040032B4DA /* optional.swift */; };
+		C59712682685AA050032B4DA /* function.swift in Sources */ = {isa = PBXBuildFile; fileRef = C59712672685AA050032B4DA /* function.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -43,6 +44,7 @@
 		C597126026853D130032B4DA /* tuple.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = tuple.swift; sourceTree = "<group>"; };
 		C59712622685416B0032B4DA /* dictionary.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = dictionary.swift; sourceTree = "<group>"; };
 		C5971264268557040032B4DA /* optional.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = optional.swift; sourceTree = "<group>"; };
+		C59712672685AA050032B4DA /* function.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = function.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -86,6 +88,7 @@
 				C597126026853D130032B4DA /* tuple.swift */,
 				C59712622685416B0032B4DA /* dictionary.swift */,
 				C5971264268557040032B4DA /* optional.swift */,
+				C59712672685AA050032B4DA /* function.swift */,
 			);
 			path = SwiftStudy;
 			sourceTree = "<group>";
@@ -155,6 +158,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				C59712632685416B0032B4DA /* dictionary.swift in Sources */,
+				C59712682685AA050032B4DA /* function.swift in Sources */,
 				C5971265268557040032B4DA /* optional.swift in Sources */,
 				C597126126853D130032B4DA /* tuple.swift in Sources */,
 				C597125F268538290032B4DA /* set.swift in Sources */,
